@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 <body style="display:flex; justify-content:space-between">
   <canvas class = "canvas" style = "background-color: red; width:200px;height:200px"></canvas>
-  <div><img src="https://github.com/eduardkarpow/eduardkarpow/blob/main/Programming-Memes.jpg"/></div>
+  <div><img width=300px height=300px src="https://github.com/eduardkarpow/eduardkarpow/blob/main/Programming-Memes.jpg"/></div>
 </body>
