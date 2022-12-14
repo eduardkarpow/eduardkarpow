@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<head>
+<body>
   <style>
     body{
       display:flex;
@@ -24,8 +24,6 @@ Here are some ideas to get you started:
       color: red;
     }
   </style>
-</head>
-<body>
   <canvas class = "canvas"></canvas>
   <div><img src="https://github.com/eduardkarpow/eduardkarpow/blob/main/Programming-Memes.jpg"/></div>
 </body>
