@@ -13,4 +13,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---><div><img src="https://github.com/eduardkarpow/eduardkarpow/blob/main/Programming-Memes.jpg"/></div>
+-->
+<head>
+  <style>
+    body{
+      display:flex;
+      justify-content: space-between;
+    }
+    .canvas{
+      color: red;
+    }
+  </style>
+</head>
+<body>
+  <canvas class = "canvas"></canvas>
+  <div><img src="https://github.com/eduardkarpow/eduardkarpow/blob/main/Programming-Memes.jpg"/></div>
+</body>
