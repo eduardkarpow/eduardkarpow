@@ -14,16 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<body>
-  <style>
-    body{
-      display:flex;
-      justify-content: space-between;
-    }
-    .canvas{
-      color: red;
-    }
-  </style>
-  <canvas class = "canvas"></canvas>
+<body style="display:flex; justify-content:space-between">
+  <canvas class = "canvas" style = "background-color: red; width:200px;height:200px"></canvas>
   <div><img src="https://github.com/eduardkarpow/eduardkarpow/blob/main/Programming-Memes.jpg"/></div>
 </body>
